@@ -1,6 +1,6 @@
 <h1 align="left">Matheus Porto</h1>
-<a href="https://www.instagram.com/mattport0/">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" style="vertical-align:top;">
+<a href="https://www.behance.net/darkmetak">
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/behance.svg" alt="Behance" style="vertical-align:top;">
 </a> 
 <a href="https://www.linkedin.com/in/matheusport0/">
   <img width="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" style="vertical-align:top;">
@@ -9,12 +9,7 @@
 </br>
 
 ## Hello, Devs!! 👋
-
-Tenho 19 anos, moro em São Paulo/SP, e comecei a entrar no mundo da programação há 2 anos. Sou técnico em 'Desenvolvimento de Sistemas', e estou cursando tecnólogo de 'Desenvolvimento de Software Multiplataforma' na Fatec-ZL!
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/385139bd2dd06a83e3d77a344ac75b6f/tumblr_poadlrKmmP1x8m0qto2_1280.gif" width="350">
-</p>
+Acredito que a tecnologia é a melhor ferramenta para conectar e impactar pessoas. Minha paixão é desenvolver soluções digitais interativas e cativantes, com propósito de tornar cada jornada online significativa.
 
 ### 🖥️ Tecnologias e Ferramentas:
 <div>
@@ -28,6 +23,7 @@ Tenho 19 anos, moro em São Paulo/SP, e comecei a entrar no mundo da programaç�
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/>
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-plain.svg" title = "Node.JS"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/>
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title = "MongoDB"/>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/>
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" title = "Figma"/>
 </div>
@@ -35,7 +31,10 @@ Tenho 19 anos, moro em São Paulo/SP, e comecei a entrar no mundo da programaç�
 </br>
 </br>
 <div display="inline-block">
- <p align="left">📚 No momento estou estudando React e UI/UX Design</p>
+ <p align="left">📚 No momento estou estudando React Native e UI/UX Design</p>
+   <p align="left">
+   <img src="https://64.media.tumblr.com/385139bd2dd06a83e3d77a344ac75b6f/tumblr_poadlrKmmP1x8m0qto2_1280.gif" width="350">
+ </p>
  <p align="left">⚡ Fun fact: Meu nickname 'DarkMetaK' vem de 'Dark Meta Knight', uma versão especial de um dos antagonistas de Kirby</p>
 </div>
 
