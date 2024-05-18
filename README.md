@@ -29,19 +29,6 @@ Acredito que a tecnologia é a melhor ferramenta para conectar e impactar pessoa
   <img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" title = "Figma"/>
 </div>
 
-</br>
-</br>
-<div display="inline-block">
- <p align="left">📚 No momento estou estudando React Native e Springboot</p>
-   <p align="left">
-   <img src="https://64.media.tumblr.com/385139bd2dd06a83e3d77a344ac75b6f/tumblr_poadlrKmmP1x8m0qto2_1280.gif" width="350">
- </p>
- <p align="left">⚡ Fun fact: Meu nickname 'DarkMetaK' vem de 'Dark Meta Knight', uma versão especial de um dos antagonistas de Kirby</p>
-</div>
-
-
-</br>
-
 ##
 <p align="center">
 <a href="https://github.com/DarkMetaK">
